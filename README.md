@@ -17,6 +17,7 @@ Different regions contribute unequally to overall revenue, and StellarMart wants
 ## Analysis required on dataset
 
 As part of this project, analyze StellarMart’s data and address the following objectives:
+<ul>Clean the dataset</ul>
 <ul>Identify sales trends over time, including monthly and seasonal fluctuations.</ul>
 <ul>Compare sales performance across product categories and pinpoint underperforming ones.</ul>
 <ul>Analyze sales contributions category wise from each region </ul>
